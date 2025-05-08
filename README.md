@@ -1,7 +1,7 @@
-## olá, me chamo Raquel 
+## Raquel Rodrigues 
 
-- 📚 Desenvolvimento Front-End - EBAC
-- 👩🏾 Pronomes: ela/dela
+- 💻 UI Designer / Front-End Developer
+- 👩🏾‍💻 Pronomes: ela/dela
 
 
 <div>
